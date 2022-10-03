@@ -1,0 +1,12 @@
+/* nombre de la etiqueta */
+p {
+    background-color: yellow;
+}
+/* class */
+.parrafo {
+  color: red;
+}
+/* id */
+#texto {
+  font-size: 24px;
+}
